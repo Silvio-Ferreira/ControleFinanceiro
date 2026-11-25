@@ -1,3 +1,5 @@
 <Solution>
+  <Project Path="ControleFinanceiro.Domain/ControleFinanceiro.Domain.csproj" Id="432da61e-a719-4d45-bd96-1cdaddd73e70" />
+  <Project Path="ControleFinanceiro.Infrastructure/ControleFinanceiro.Infrastructure.csproj" Id="a899b22c-671d-45df-893c-7f24017b1d78" />
   <Project Path="ControleFinanceiro/ControleFinanceiro.csproj" />
 </Solution>
